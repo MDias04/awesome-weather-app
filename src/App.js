@@ -10,7 +10,10 @@ function App() {
       </header>
       <small className="App-footer">
         Developed by Marta Dias | Open Sourced on{" "}
-        <a href="" target="_blank">
+        <a
+          href="https://github.com/MDias04/awesome-weather-app"
+          target="_blank"
+        >
           Github
         </a>
       </small>
