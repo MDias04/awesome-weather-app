@@ -14,6 +14,7 @@ function App() {
           className="App-source"
           href="https://github.com/MDias04/awesome-weather-app"
           target="_blank"
+          rel="noreferrer"
         >
           Github
         </a>
