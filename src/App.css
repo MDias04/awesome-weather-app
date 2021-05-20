@@ -12,6 +12,7 @@
   justify-content: center;
   text-align: center;
   color: white;
+  display: flex;
 }
 
 .App-header {
@@ -34,4 +35,15 @@
 .App-source:hover {
   cursor: pointer;
   color: rgb(254, 190, 126);
+}
+
+@media (min-width: 375px) {
+  .App-header {
+    font-size: 1.5rem;
+  }
+  .App-footer {
+    font-size: 0.8rem;
+    text-align: center;
+    left: 30px;
+  }
 }
