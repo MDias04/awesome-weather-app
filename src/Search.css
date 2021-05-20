@@ -77,3 +77,20 @@ span {
   width: 150px;
   height: 150px;
 }
+
+@media (min-width: 375px) and (max-width: 500px) {
+  .search-box {
+    width: 200px;
+  }
+  .search-box:focus {
+    background-color: white;
+    width: 250px;
+  }
+  ul li {
+    list-style: none;
+    padding: 5px;
+    font-size: 1rem;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+  }
+}
