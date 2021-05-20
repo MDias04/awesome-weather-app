@@ -47,8 +47,8 @@ export default function Search() {
           minLength="2"
           maxLength="20"
           autoFocus={false}
-          autoComplete={false}
-          autoCapitalize={true}
+          autoComplete="false"
+          autoCapitalize="true"
           onChange={updateCity}
         ></input>
 

@@ -93,4 +93,19 @@ span {
     font-family: "Roboto", sans-serif;
     text-align: center;
   }
+  span {
+    font-size: 1rem;
+    font-weight: 500;
+    color: rgb(254, 190, 126);
+    font-family: "Poppins", sans-serif;
+  }
+
+  .city {
+    margin-bottom: 15px;
+    font-size: 1.7rem;
+  }
+  .icon {
+    width: 100px;
+    height: 100px;
+  }
 }
